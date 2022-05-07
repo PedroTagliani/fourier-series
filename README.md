@@ -8,4 +8,4 @@ Integrantes:
 * Díaz Gastón Alejandro.
 * Duarte Guillermo Daniel.
 * Tagliani Pedro.
-* Viscarra Hernández Daiana.
+* Viscarra Hernández Daiana Belén.
